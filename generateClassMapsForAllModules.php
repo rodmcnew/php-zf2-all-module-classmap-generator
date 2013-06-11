@@ -2,6 +2,8 @@
 /**
  * ZF2 All Module Classmap Generator
  *
+ * Searches for all ZF2 modules in a folder and then runs the ZF2 classmap generator on each module
+ * 
  * @author    Rod McNew
  * @license   License.txt New BSD License
  */
